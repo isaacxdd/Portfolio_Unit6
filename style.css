@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://static-s.aa-cdn.net/img/gp/20600004227632/mNQ3J7LvmFcYgSCpFyrl3AKihEQnetvMSRSQcFemvX3CSMvoXTO00HLNg2mGx__vFS8=h900");
       background-size: cover;
       color: white;
     }
@@ -12,8 +12,9 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 7px solid black;
+      border-radius: 50px;
+      height: 500px;
     }
     ul {
       padding: 10px;
@@ -32,6 +33,7 @@
       h1 {
         font-size: 36px;
         padding: 5px;
+        font-family: cursive;
       }
       li {
         padding: 5px;
