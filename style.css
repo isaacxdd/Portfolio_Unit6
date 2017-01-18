@@ -1,6 +1,6 @@
-    header {
+ header {
       text-align: center;
-      background: url("https://static-s.aa-cdn.net/img/gp/20600004227632/mNQ3J7LvmFcYgSCpFyrl3AKihEQnetvMSRSQcFemvX3CSMvoXTO00HLNg2mGx__vFS8=h900");
+      background: url("https://img.shockblast.net/2015/01/Michael_Salisbury-photography-ShockBlast-21.jpg");
       background-size: cover;
       color: white;
     }
@@ -39,4 +39,7 @@
         padding: 5px;
         display: block;
       }
+    }
+    html{ 
+      background-color: red
     }
